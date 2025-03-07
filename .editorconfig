@@ -6,6 +6,8 @@ root = true
 # Visual C++ 코드 스타일 설정
 
 cpp_generate_documentation_comments = xml
+[i18n]
+	commitEncoding = utf-8
 
 # Visual C++ 서식 설정
 
