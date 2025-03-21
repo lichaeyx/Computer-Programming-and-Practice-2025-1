@@ -11,6 +11,6 @@
 
 int main() {
 	/* To Do: 리턴값을 printf 함수의 호출식으로 바꿔보세요, printf를 호출할 때 인자는 "Hello, world!"로 넣어보세요 */
-	printf("Hello, world!");
-	return 0;
+	
+	return printf("Hello, world!");
 }
